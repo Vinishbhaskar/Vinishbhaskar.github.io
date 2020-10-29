@@ -86,23 +86,23 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+-# Stay awesome!
 
-1. Numbered
-2. List
+1. <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinishbhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="vinishbhaskar" /> </p>
 
-**Bold** and _Italic_ and `Code` text
+2. <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinishbhaskar" alt="vinishbhaskar" /></a> </p>
+
+3. <p align="left"> <a href="https://twitter.com/vinish_bhaskar" target="blank"><img src="https://img.shields.io/twitter/follow/vinish_bhaskar?logo=twitter&style=for-the-badge" alt="vinish_bhaskar" /></a> </p>
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Github.com/Vinishbhaskar](https://vinishbhaskar.github.io).
 
-### Jekyll Themes
+### Vinish Bhaskar Github Page
+.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinishbhaskar/Vinishbhaskar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Repo](https://github.com/Vinishbhaskar/README.md) or [contact support](https://twitter.com/Vinish_Bhaskar) and I’ll help you sort it out.
